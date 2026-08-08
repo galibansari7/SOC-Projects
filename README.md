@@ -1,2 +1,2 @@
 # SOC-Projects
-This Repo contains SOC projects in Python.
+This Repo contains Cybersecurity Projects.
